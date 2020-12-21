@@ -1,6 +1,6 @@
 # Children-Alarm-Clock
 
-An alarm clock built for parents to help keep their young children on a schedule
+An alarm clock built using React-Native, NodeJS, and TypeScript. 
 
 # Description
 Description: Android Based Application
